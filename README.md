@@ -1,4 +1,4 @@
-# CMPN202 – Operating Systems Coursework
+  Operating Systems Coursework
 
 ## Week 1: Virtualisation and Ubuntu Server Installation
 
